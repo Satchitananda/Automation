@@ -10,8 +10,8 @@ logpath = "/var/log/sitemap_aggregator.log"
 #5 Megabytes log file
 logfilesize = 1024*1024*5
 
-urls = ["http://openite.com/ru/sitemap.xml",
-        "http://openite.com/en/sitemap.xml"]
+urls = ["http://site.com/ru/sitemap.xml",
+        "http://site.com/en/sitemap.xml"]
 
 savepath = "./sitemap.xml"
 
